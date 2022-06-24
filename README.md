@@ -51,4 +51,8 @@ Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc
 
+<<<<<<< HEAD
 Update from local
+=======
+Update from remote
+>>>>>>> e7870e3f7f6094039a6d33e2b4ed349c35eb4dbb
