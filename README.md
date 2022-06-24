@@ -34,7 +34,7 @@ so that our own site is optimized for search engines.
     * when I view the title element, 
 
         then I find a concise, descriptive title. 
-# Run Buddy, Inc
+## Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services. 
