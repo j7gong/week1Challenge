@@ -34,3 +34,17 @@ so that our own site is optimized for search engines.
     * when I view the title element, 
 
         then I find a concise, descriptive title. 
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
